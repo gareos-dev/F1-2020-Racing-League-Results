@@ -1,6 +1,14 @@
 F1 2020 Racing League Results
 =============================
 
+Test
+====
+
+| Team          | Driver Gamer (Ingame)   |
+| ------------- | ----------------------- |
+| Mercedes-AMG  | luach18                 |
+|| Yungloui                |
+
 Table of contents
 =================
 
@@ -45,7 +53,7 @@ Drivers and Teams
 
 | Team          | Driver Gamer (Ingame)   |
 | ------------- | ----------------------- |
-| <td rowspan=2> Mercedes-AMG  | luach18                 |
+| Mercedes-AMG  | luach18                 |
 |               | Yungloui                |
 | ------------- | ----------------------- |
 | Haas F1       | Daniel Avocado          |
