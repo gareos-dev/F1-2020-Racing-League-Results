@@ -7,7 +7,7 @@ Test
 <table>
 	<thead>
 		<tr>
-			<th>Position</th>
+			<th align='right'>Position</th>
 			<th align='right'>1st</th>
 			<th align='right'>2nd</th>
 			<th align='right'>3rd</th>
@@ -23,18 +23,18 @@ Test
 	</thead>
 	<tbody>
 		<tr>
-			<td>Points</td>
-			<td>25</td>
-			<td>18</td>
-			<td>15</td>
-			<td>12</td>
-			<td>10</td>
-			<td>8</td>
-			<td>6</td>
-			<td>4</td>   
-			<td>2</td>
-			<td>1</td>
-			<td>1</td>
+			<td align='right'>Points</td>
+			<td align='right'>25</td>
+			<td align='right'>18</td>
+			<td align='right'>15</td>
+			<td align='right'>12</td>
+			<td align='right'>10</td>
+			<td align='right'>8</td>
+			<td align='right'>6</td>
+			<td align='right'>4</td>   
+			<td align='right'>2</td>
+			<td align='right'>1</td>
+			<td align='right'>1</td>
 		</tr>
 	</tfoot>
 </table> 
