@@ -6,7 +6,7 @@ Test
 
 | Team          | Driver Gamer (Ingame)   |
 | ------------- | ----------------------- |
-| Mercedes-AMG  | luach18                 |
+|| Mercedes-AMG | luach18                 |
 | ^             | Yungloui                |
 
 Table of contents
