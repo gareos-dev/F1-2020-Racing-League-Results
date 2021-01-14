@@ -4,10 +4,10 @@ F1 2020 Racing League Results
 Table of contents
 =================
 
-* [Calendar](#calendar)
-* [Driver](#driver)
-* [Teams](#teams)
-* [Results](#results)
+- [Calendar](#calendar)
+- [Driver](#driver)
+- [Teams](#teams)
+- [Results](#results)
 
 Calendar
 ========
