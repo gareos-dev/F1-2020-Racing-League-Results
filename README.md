@@ -8,17 +8,17 @@ Test
 	<thead>
 		<tr>
 			<th>Position</th>
-			<th>1st</th>
-			<th>2nd</th>
-			<th>3rd</th>
-			<th>4th</th>
-			<th>5th</th>
-			<th>6th</th>
-			<th>7th</th>
-			<th>8th</th>
-			<th>9th</th>
-			<th>10th</th>
-			<th>Fl</h>
+			<th align='right'>1st</th>
+			<th align='right'>2nd</th>
+			<th align='right'>3rd</th>
+			<th align='right'>4th</th>
+			<th align='right'>5th</th>
+			<th align='right'>6th</th>
+			<th align='right'>7th</th>
+			<th align='right'>8th</th>
+			<th align='right'>9th</th>
+			<th align='right'>10th</th>
+			<th align='right'>Fl</h>
 		</tr>
 	</thead>
 	<tbody>
