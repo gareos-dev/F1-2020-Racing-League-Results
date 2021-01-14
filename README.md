@@ -48,30 +48,33 @@ Results and standings
 
 ## Grands Prix
 
-| Round | Grand Prix                   | Pole Position | Fastest lap | Winning driver | Winning constructor |
-| ----- | ---------------------------- | ------------- | ----------- | -------------- | ------------------- |
-|    1  | Bahrain Grand Prix           |               |             |                |                     |
-|    2  | China Grand Prix             |               |             |                |                     |
-|    3  | Niederlande Grand Prix       |               |             |                |                     |
-|    4  | Spanien Grand Prix           |               |             |                |                     |
-|    5  | Aserbaidschan Grand Prix     |               |             |                |                     |
-|    6  | Kanada Grand Prix            |               |             |                |                     |
-|    7  | Frankreich Grand Prix        |               |             |                |                     |
-|    8  | Österreich Grand Prix        |               |             |                |                     |
-|    9  | Großbritannien Grand Prix    |               |             |                |                     |
-|   10  | Austrian Grand Prix          |               |             |                |                     |
-|   11  | Hungarian Grand Prix         |               |             |                |                     |
-|   12  | Belgien Grand Prix           |               |             |                |                     |
-|   13  | Italien Grand Prix           |               |             |                |                     |
-|   14  | Singapur Grand Prix          |               |             |                |                     |
-|   15  | Russland Grand Prix          |               |             |                |                     |
-|   16  | Japan Grand Prix             |               |             |                |                     |
-|   17  | USA Grand Prix               |               |             |                |                     |
-|   18  | Mexiko Grand Prix            |               |             |                |                     |
-|   19  | Brasilien Grand Prix         |               |             |                |                     |
-|   20  | Abu Dhabi Grand Prix         |               |             |                |                     |
+| Round | Grand Prix                 | Pole Position | Fastest lap | Winning driver | Winning constructor |
+| ----- | -------------------------- | ------------- | ----------- | -------------- | ------------------- |
+|    1  | Bahrain Grand Prix         |               |             |                |                     |
+|    2  | China Grand Prix           |               |             |                |                     |
+|    3  | Dutch Grand Prix           |               |             |                |                     |
+|    4  | Spanish Grand Prix         |               |             |                |                     |
+|    5  | Aserbaidschan Grand Prix   |               |             |                |                     |
+|    6  | Kanada Grand Prix          |               |             |                |                     |
+|    7  | Frankreich Grand Prix      |               |             |                |                     |
+|    8  | Österreich Grand Prix      |               |             |                |                     |
+|    9  | Großbritannien Grand Prix  |               |             |                |                     |
+|   10  | Austrian Grand Prix        |               |             |                |                     |
+|   11  | Hungarian Grand Prix       |               |             |                |                     |
+|   12  | Belgien Grand Prix         |               |             |                |                     |
+|   13  | Italian Grand Prix         |               |             |                |                     |
+|   14  | Singapur Grand Prix        |               |             |                |                     |
+|   15  | Russian Grand Prix         |               |             |                |                     |
+|   16  | Japan Grand Prix           |               |             |                |                     |
+|   17  | USA Grand Prix             |               |             |                |                     |
+|   18  | Mexiko Grand Prix          |               |             |                |                     |
+|   19  | Brasilien Grand Prix       |               |             |                |                     |
+|   20  | Abu Dhabi Grand Prix       |               |             |                |                     |
 
 ## Scoring system
+
+| Position |1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th | FL |
+| Points   | 25 |  18 |  15 |  12 |  10 |   8 |   6 |   4 |   2 |    1 |  1 |
 
 ## Round 1 - Bahrain Grand Prix
 
