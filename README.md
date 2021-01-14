@@ -1,15 +1,6 @@
 F1 2020 Racing League Results
 =============================
 
-Test
-====
-
-|||:Header 1|:Header 2|:Header 3|:Header 4
-|| Row 1 .. |  |  |  
-|| Row 2 .. |  Test
-|| Row 3 .. |  |  |  
-|| Row 4 .. |  |  |  
-
 Table of contents
 =================
 
