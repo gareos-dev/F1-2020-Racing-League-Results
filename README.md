@@ -4,6 +4,8 @@ F1 2020 Racing League Results
 Test
 ====
 
+{.red .numberLines startFrom="1"}
+
 <table>
 	<thead>
 		<tr>
