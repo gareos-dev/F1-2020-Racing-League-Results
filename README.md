@@ -4,7 +4,7 @@ F1 2020 Racing League Results
 Test
 ====
 
-<a class="bg-yellow" href="#url">link-gray</a>
+<span style="color:blue">some *blue* text</span>.
 
 <table>
 	<thead>
