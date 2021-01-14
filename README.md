@@ -14,7 +14,7 @@ Calendar
 ========
 
 | Round |         Date | Grand Prix (Strecke)         |
-| ----- | ------------ | ---------------------------- |
+| -----:| ------------:| ---------------------------- |
 |    1  |   9. January | Bahrain (as-Sachir)          |
 |    2  |  16. January | China (Shanghai)             |
 |    3  |  23. January | Niederlande (Zandvoort)      |
@@ -49,7 +49,7 @@ Results and standings
 ## Grands Prix
 
 | Round | Grand Prix                 | Pole Position | Fastest lap | Winning driver | Winning constructor |
-| ----- | -------------------------- | ------------- | ----------- | -------------- | ------------------- |
+| -----:| -------------------------- | ------------- | ----------- | -------------- | ------------------- |
 |    1  | Bahrain Grand Prix         |               |             |                |                     |
 |    2  | China Grand Prix           |               |             |                |                     |
 |    3  | Dutch Grand Prix           |               |             |                |                     |
