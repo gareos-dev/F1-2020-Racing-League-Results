@@ -3,7 +3,7 @@ F1 2020 Racing League Results
 
 Test
 ====
-<table>
+<table style="width:500px;">
 	<thead>
 		<tr>
 			<th align='right'>Position</th>
