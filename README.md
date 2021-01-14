@@ -4,7 +4,11 @@ F1 2020 Racing League Results
 Test
 ====
 
-{.red .numberLines startFrom="1"}
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+</style>")
 
 <table>
 	<thead>
