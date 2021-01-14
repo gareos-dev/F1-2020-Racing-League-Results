@@ -46,7 +46,7 @@ Drivers and Teams
 | Team          | Driver Gamer (Ingame)   |
 | ------------- | ----------------------- |
 | <td rowspan=2> Mercedes-AMG  | luach18                 |
-| Yungloui                |
+|               | Yungloui                |
 | ------------- | ----------------------- |
 | Haas F1       | Daniel Avocado          |
 |               | DK                      |
