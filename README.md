@@ -46,7 +46,32 @@ Drivers and Teams
 Results and standings
 =====================
 
+## Grands Prix
 
+| Round | Grand Prix                   | Pole Position | Fastest lap | Winning driver | Winning constructor |
+| ----- | ---------------------------- | ------------- | ----------- | -------------- | ------------------- |
+|    1  | Bahrain (as-Sachir)          |               |             |                |                     |
+|    2  | China (Shanghai)             |               |             |                |                     |
+|    3  | Niederlande (Zandvoort)      |               |             |                |                     |
+|    4  | Spanien (Montmeló)           |               |             |                |                     |
+|    5  | Aserbaidschan (Baku)         |               |             |                |                     |
+|    6  | Kanada (Montréal)            |               |             |                |                     |
+|    7  | Frankreich (Le Castellet)    |               |             |                |                     |
+|    8  | Österreich (Spielberg)       |               |             |                |                     |
+|    9  | Großbritannien (Silverstone) |               |             |                |                     |
+|   10  | Australien (Melbourne)       |               |             |                |                     |
+|   11  | Ungarn (Mogyoród)            |               |             |                |                     |
+|   12  | Belgien (Spa-Francorchamps)  |               |             |                |                     |
+|   13  | Italien (Monza)              |               |             |                |                     |
+|   14  | Singapur (Singapur)          |               |             |                |                     |
+|   15  | Russland (Sotschi)           |               |             |                |                     |
+|   16  | Japan (Suzuka)               |               |             |                |                     |
+|   17  | USA (Austin)                 |               |             |                |                     |
+|   18  | Mexiko (Mexiko-Stadt)        |               |             |                |                     |
+|   19  | Brasilien (Interlagos)       |               |             |                |                     |
+|   20  | Abu Dhabi (Yas-Insel)        |               |             |                |                     |
+
+## Scoring system
 
 ## Round 1 - Bahrain Grand Prix
 
