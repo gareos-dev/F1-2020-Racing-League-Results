@@ -50,26 +50,26 @@ Results and standings
 
 | Round | Grand Prix                   | Pole Position | Fastest lap | Winning driver | Winning constructor |
 | ----- | ---------------------------- | ------------- | ----------- | -------------- | ------------------- |
-|    1  | Bahrain (as-Sachir)          |               |             |                |                     |
-|    2  | China (Shanghai)             |               |             |                |                     |
-|    3  | Niederlande (Zandvoort)      |               |             |                |                     |
-|    4  | Spanien (Montmeló)           |               |             |                |                     |
-|    5  | Aserbaidschan (Baku)         |               |             |                |                     |
-|    6  | Kanada (Montréal)            |               |             |                |                     |
-|    7  | Frankreich (Le Castellet)    |               |             |                |                     |
-|    8  | Österreich (Spielberg)       |               |             |                |                     |
-|    9  | Großbritannien (Silverstone) |               |             |                |                     |
-|   10  | Australien (Melbourne)       |               |             |                |                     |
-|   11  | Ungarn (Mogyoród)            |               |             |                |                     |
-|   12  | Belgien (Spa-Francorchamps)  |               |             |                |                     |
-|   13  | Italien (Monza)              |               |             |                |                     |
-|   14  | Singapur (Singapur)          |               |             |                |                     |
-|   15  | Russland (Sotschi)           |               |             |                |                     |
-|   16  | Japan (Suzuka)               |               |             |                |                     |
-|   17  | USA (Austin)                 |               |             |                |                     |
-|   18  | Mexiko (Mexiko-Stadt)        |               |             |                |                     |
-|   19  | Brasilien (Interlagos)       |               |             |                |                     |
-|   20  | Abu Dhabi (Yas-Insel)        |               |             |                |                     |
+|    1  | Bahrain Grand Prix           |               |             |                |                     |
+|    2  | China Grand Prix             |               |             |                |                     |
+|    3  | Niederlande Grand Prix       |               |             |                |                     |
+|    4  | Spanien Grand Prix           |               |             |                |                     |
+|    5  | Aserbaidschan Grand Prix     |               |             |                |                     |
+|    6  | Kanada Grand Prix            |               |             |                |                     |
+|    7  | Frankreich Grand Prix        |               |             |                |                     |
+|    8  | Österreich Grand Prix        |               |             |                |                     |
+|    9  | Großbritannien Grand Prix    |               |             |                |                     |
+|   10  | Austrian Grand Prix          |               |             |                |                     |
+|   11  | Hungarian Grand Prix         |               |             |                |                     |
+|   12  | Belgien Grand Prix           |               |             |                |                     |
+|   13  | Italien Grand Prix           |               |             |                |                     |
+|   14  | Singapur Grand Prix          |               |             |                |                     |
+|   15  | Russland Grand Prix          |               |             |                |                     |
+|   16  | Japan Grand Prix             |               |             |                |                     |
+|   17  | USA Grand Prix               |               |             |                |                     |
+|   18  | Mexiko Grand Prix            |               |             |                |                     |
+|   19  | Brasilien Grand Prix         |               |             |                |                     |
+|   20  | Abu Dhabi Grand Prix         |               |             |                |                     |
 
 ## Scoring system
 
