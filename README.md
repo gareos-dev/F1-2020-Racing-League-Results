@@ -4,6 +4,13 @@ F1 2020 Racing League Results
 Test
 ====
 
+<style>
+.alert-warning {
+  color: rgb(138,109,59) !important;
+}
+</style>
+
+
 <table>
 	<thead>
 		<tr>
