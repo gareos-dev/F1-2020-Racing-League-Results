@@ -3,15 +3,12 @@ F1 2020 Racing League Results
 
 Test
 ====
-
-em { font-style: normal; font-weight: bold; }
-
 <table>
 	<thead>
 		<tr>
 			<th align='right'>Position</th>
 			<th align='right'>1st</th>
-			<th align='right'>2nd</th>
+			<th align='right'>~~This is green~~</th>
 			<th align='right'>3rd</th>
 			<th align='right'>4th</th>
 			<th align='right'>5th</th>
