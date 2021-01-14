@@ -8,8 +8,8 @@ Test
 	<thead>
 		<tr>
 			<th align='right'>Position</th>
-			<th align='right' style="color: green">1st</th>
-			<th align='right'>2nd</th>
+			<th align='right'>1st</th>
+			<th align='right'><span color="red">2nd</span></th>
 			<th align='right'>3rd</th>
 			<th align='right'>4th</th>
 			<th align='right'>5th</th>
