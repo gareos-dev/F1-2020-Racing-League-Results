@@ -6,7 +6,7 @@ Test
 
 <table>
 	<thead>
-		<tr style="background-color:#BDB76B;color:#ffffff;">
+		<tr>
 			<th align='right'>Position</th>
 			<th align='right'>1st</th>
 			<th align='right'>2nd</th>
