@@ -43,6 +43,39 @@ Drivers and Teams
 
 ## Teams
 
+| Team          | Driver Gamer (Ingame)   |
+| ------------- | ----------------------- |
+| Mercedes-AMG  | luach18                 |
+|               | Yungloui                |
+| ------------- | ----------------------- |
+| Haas F1       | Daniel Avocado          |
+|               | DK                      |
+| ------------- | ----------------------- |
+| McLaren       | Gabbix                  |
+|               | gustel31                |
+| ------------- | ----------------------- |
+| Alfa Romeo    | Jimmy1903               |
+|               | Master Matse            |
+| ------------- | ----------------------- |
+| Red Bull      | Yelkajor                |
+|               | Anuss                   |
+| ------------- | ----------------------- |
+| Renault       | DonKlemente             |
+|               | MaGGz                   |
+| ------------- | ----------------------- |
+| Ferrari       | fewe09                  |
+|               | itzzzztobi              |
+| ------------- | ----------------------- |
+| AlphaTauri    | reez                    |
+|               | gareos                  |
+| ------------- | ----------------------- |
+| Williams      | LEVELUP                 |
+|               | Takeso                  |
+| ------------- | ----------------------- |
+| Racing Point  | DerVonNebeAn            |
+|               | Zementente              |
+| ------------- | ----------------------- |
+
 Results and standings
 =====================
 
