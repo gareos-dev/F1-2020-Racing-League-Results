@@ -3,10 +3,11 @@ F1 2020 Racing League Results
 
 Test
 ====
-| Team          | Driver Gamer (Ingame)   |
-| ------------- | ----------------------- |
-| Mercedes-AMG  | luach18                 |
-| ^             | Yungloui                |
+
+| a | b |
+| --- | --- |
+| 1 | 2 |
+| ^ | 4 |
 
 Table of contents
 =================
