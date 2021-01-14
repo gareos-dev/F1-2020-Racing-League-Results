@@ -8,7 +8,7 @@ Test
 	<thead>
 		<tr>
 			<th align='right'>Position</th>
-			<th align='right' style='background-color: #ffffff;'>1st</th>
+			<th align='right' bgcolor="#000000">1st</th>
 			<th align='right'>2nd</th>
 			<th align='right'>3rd</th>
 			<th align='right'>4th</th>
