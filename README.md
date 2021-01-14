@@ -4,27 +4,59 @@ F1 2020 Racing League Results
 Test
 ====
 
- <table>
+<table>
   <thead>
     <tr>
-      <th>Month</th>
-      <th>Savings</th>
+      <th>Position</th>
+      <th>Points</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>January</td>
-      <td>$100</td>
+      <td>1st</td>
+      <td>25</td>
     </tr>
     <tr>
-      <td>February</td>
-      <td>$80</td>
+      <td>2nd</td>
+      <td>18</td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td>Sum</td>
-      <td>$180</td>
+      <td>3rd</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>4th</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>5th</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>6th</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>7th</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>8th</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>9th</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>10th</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Fl</td>
+      <td>1</td>
     </tr>
   </tfoot>
 </table> 
