@@ -7,34 +7,34 @@ Test
 <table>
 	<thead>
 		<tr>
-			<th align='right'>Position</th>
-			<th align='right'>1st</th>
-			<th align='right'>2nd</th>
-			<th align='right'>3rd</th>
-			<th align='right'>4th</th>
-			<th align='right'>5th</th>
-			<th align='right'>6th</th>
-			<th align='right'>7th</th>
-			<th align='right'>8th</th>
-			<th align='right'>9th</th>
-			<th align='right'>10th</th>
-			<th align='right'>Fl</h>
+			<th style="text-align:right">Position</th>
+			<th style="text-align:right">1st</th>
+			<th style="text-align:right">2nd</th>
+			<th style="text-align:right">3rd</th>
+			<th style="text-align:right">4th</th>
+			<th style="text-align:right">5th</th>
+			<th style="text-align:right">6th</th>
+			<th style="text-align:right">7th</th>
+			<th style="text-align:right">8th</th>
+			<th style="text-align:right">9th</th>
+			<th style="text-align:right">10th</th>
+			<th style="text-align:right">Fl</h>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td align='right'>Points</td>
-			<td align='right'>25</td>
-			<td align='right'>18</td>
-			<td align='right'>15</td>
-			<td align='right'>12</td>
-			<td align='right'>10</td>
-			<td align='right'>8</td>
-			<td align='right'>6</td>
-			<td align='right'>4</td>   
-			<td align='right'>2</td>
-			<td align='right'>1</td>
-			<td align='right'>1</td>
+			<td style="text-align:right">Points</td>
+			<td style="text-align:right">25</td>
+			<td style="text-align:right">18</td>
+			<td style="text-align:right">15</td>
+			<td style="text-align:right">12</td>
+			<td style="text-align:right">10</td>
+			<td style="text-align:right">8</td>
+			<td style="text-align:right">6</td>
+			<td style="text-align:right">4</td>   
+			<td style="text-align:right">2</td>
+			<td style="text-align:right">1</td>
+			<td style="text-align:right">1</td>
 		</tr>
 	</tfoot>
 </table> 
