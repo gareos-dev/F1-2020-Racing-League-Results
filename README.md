@@ -4,7 +4,7 @@ F1 2020 Racing League Results
 Test
 ====
 
-CSS: .non-italic{ font-style: normal; font-weight: bold; }
+em { font-style: normal; font-weight: bold; }
 
 <table>
 	<thead>
