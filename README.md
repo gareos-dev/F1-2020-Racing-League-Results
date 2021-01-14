@@ -4,6 +4,9 @@ F1 2020 Racing League Results
 Test
 ====
 
+### GitLab Purple Heading
+{: .gitlab-purple}
+
 <table>
 	<thead>
 		<tr>
